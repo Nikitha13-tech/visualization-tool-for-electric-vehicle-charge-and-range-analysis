@@ -1,1 +1,3 @@
 # visualization-tool-for-electric-vehicle-charge-and-range-analysis
+
+This project, titled "Visualization Tool for Electric Vehicle Charge and Range Analysis", is an interactive dashboard built using Tableau to explore and analyze electric vehicle data. The goal is to make EV data more accessible and understandable by transforming multiple datasets — including vehicle specifications, pricing across regions, and charging infrastructure — into clear, visual insights. Users can compare EVs by top speed, acceleration, efficiency, and price, and also explore charging station hotspots and regional trends. This tool is designed to assist consumers, analysts, and policymakers in making informed decisions based on real data.
